@@ -2,8 +2,6 @@
 
 A simple GUI-based BMI (Body Mass Index) calculator built with Python's Tkinter library.
 
-![BMI Calculator Screenshot](screenshot.png) <!-- Add screenshot if available -->
-
 ## Features
 - Weight input in kilograms
 - Height input in centimeters
